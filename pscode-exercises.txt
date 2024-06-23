@@ -1,0 +1,76 @@
+// Exercise 1: Calculate the Sum of Two Numbers
+
+a + b = c
+
+num1 + num2 = sum
+print sum
+
+ask for 2 numbers 
+add the 2 numbers together 
+print on the screen the sum of those 2 numbers
+
+
+Display "This program will ask you for two numbers, add the two numbers, and generate a result. Please enter the  first number (A):"
+
+Input (A)
+
+Display "Please enter the second number (B):"
+
+Input (B)
+
+Display A+B 
+
+Print Sum 
+
+--END--
+
+
+// Exercise 2: Check if a Number is Even or Odd
+
+Display "This program will test if a number is odd or even. Please enter the number (A):"
+
+Use the modulo operator to see if the number can be divided by 2.
+	- IF the remainder is 0, the number is even. 
+		print "Even" 
+	-ELSE IF the remainder is 1 
+		THEN print "Odd" 
+
+--END--
+
+
+// Exercise 3: 
+Write pseudo code that will perform the following.    
+
+a) Read in 5 separate numbers.   
+b) Calculate the average of the five numbers.
+c) Find the smallest (minimum) and largest (maximum) of the five entered 
+numbers.
+d) Write out the results found from steps b and c with a message 
+describing what they are.
+
+
+Display "This program will help you begin to work with data. Please choose five different numbers between 0 and 100: (A), (B), (C), (D), (E)." 
+
+Display (A), (B), (C), (D), (E)
+
+Add (A)+(B)+(C)+(D)+(E)
+
+Divide sum by 5 to get an average
+
+Display "This is the average of the dataset (A), (B), (C), (D), (E):"
+	- print number average 
+
+Display "This program will now identify the smallest and largest numbers in the dataset (A), (B), (C), (D), (E)"
+
+Identify smallest number in data set (A), (B), (C), (D), (E)
+	- print number (F)
+
+Identify the largest number in the data set (A), (B), (C), (D), (E)
+	- print number (G)
+
+Display "This is the smallest number in the data set: (F)."
+
+Display "This is the largest number in the data set: (G)."
+
+-- END --
+
